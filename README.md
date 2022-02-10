@@ -2,8 +2,14 @@
 - 👀 I’m mostly interested in .Net framwork
 - 🌱 I’m currently learning ASP .Net, ever since .Net 6 things have changed
 - 💞️ I’m looking to collaborate on anything that can helps consumer on a daily basis
-- 📫 learn more about me at https://www.upwork.com/freelancers/~016f42c0501a199670
-I'm currently working on https://sunspotvacationrentals.com/ and its linked websites, redesigning the UI also migrating from classic asp(VB) to Asp .net MVC and using Next.js for server side rendering and to create UI with react components.
+- 📫 learn more about me at https://www.upwork.com/freelancers/~016f42c0501a199670    
+
+I'm currently working on https://sunspotvacationrentals.com/ and its linked websites, redesigning the UI also migrating from classic asp(VB) to Asp .net MVC and using Next.js for server side rendering and to create UI with react components. My main job is to create APIs. I use EntityFramework to translate LINQ-to-SQL, `Mytested.AspNetCore.MVC` for testing(the framework does not require to "mock" everything which makes it an ideal choice for this project) and follow CQRS pattern of `MediatR` to seperate different layers. I can work on the front-end but do not compare myself to a senior front-end dev.
+
+My journey on pluralsight: 
+![Untitled](https://user-images.githubusercontent.com/24316328/153341056-550e7cf1-617c-4a8f-8b40-bee94a92a44c.png)
+
+
 Add me on linkedIn https://www.linkedin.com/in/abdul-munim-x2002x/
 
 <!---
