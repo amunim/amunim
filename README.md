@@ -13,10 +13,6 @@ TDD > Faster MVP
 
 Peace ✌️
 
-My journey on pluralsight: 
-![Untitled](https://user-images.githubusercontent.com/24316328/153341056-550e7cf1-617c-4a8f-8b40-bee94a92a44c.png)
-
-
 Add me on linkedIn https://www.linkedin.com/in/abdul-munim-x2002x/
 
 📈 **My GitHub Stats**
