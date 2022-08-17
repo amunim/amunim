@@ -19,6 +19,13 @@ My journey on pluralsight:
 
 Add me on linkedIn https://www.linkedin.com/in/abdul-munim-x2002x/
 
+📈 **My GitHub Stats**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amunim&show_icons=true&hide_border=true&theme=cobalt&count_private=true&include_all_commits=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amunim&show_icons=true&hide_border=true&theme=cobalt&hide=hlsl,shaderlab&exclude_repo=OCRAIProject&layout=compact&langs_count=8"/>
+</p>
+
 <!---
 amunim/amunim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
