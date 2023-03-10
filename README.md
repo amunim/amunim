@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amunim
 - 👀 I’m mostly interested in .Net framwork
-- 🌱 I’m currently learning ASP .Net, ever since .Net 6 things have changed
+- 🌱 I’m currently learning ASP .Net, ever since .Net 7 things have changed
 - 💞️ I’m looking to collaborate on anything that can helps consumer on a daily basis
 - 📫 learn more about me at https://www.upwork.com/freelancers/~016f42c0501a199670    
 
