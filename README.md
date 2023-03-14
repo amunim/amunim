@@ -4,22 +4,22 @@
 - 💞️ I’m looking to collaborate on anything that can helps consumer on a daily basis
 - 📫 learn more about me at https://www.upwork.com/freelancers/~016f42c0501a199670    
 
-Some production ready projects I've worked on:
-https://creativewood.vercel.app/
-https://mentorflight-production.up.railway.app/
+Some production ready projects I've worked on:  
+https://creativewood.vercel.app/    
+https://mentorflight-production.up.railway.app/    
 
 
-https://bedfinders.com
-https://101escapes.com
-https://anchorinns.com
-https://helpbookme.com
-https://yesvacationrentals.com
-https://aboddo.com
-https://gofidalgo.com
-https://arrowpointcondos.com
-https://sweetcarolineinn.com
-https://crisscrosscondo.com
-https://allpointscentral.com
+https://bedfinders.com    
+https://101escapes.com    
+https://anchorinns.com   
+https://helpbookme.com   
+https://yesvacationrentals.com   
+https://aboddo.com    
+https://gofidalgo.com    
+https://arrowpointcondos.com   
+https://sweetcarolineinn.com    
+https://crisscrosscondo.com     
+https://allpointscentral.com    
 
 TypeScript > Javascript.
 
