@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that can helps consumer on a daily basis
 - 📫 learn more about me at https://www.upwork.com/freelancers/~016f42c0501a199670    
 
+More active on bitbucket now.... so that's why you may not see as many commits
+
 Some production ready projects I've worked on:  
 https://creativewood.vercel.app/    
 https://mentorflight-production.up.railway.app/    
