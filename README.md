@@ -7,9 +7,9 @@
 More active on bitbucket now.... so that's why you may not see as many commits
 
 Some production ready projects I've worked on:  
-https://house-of-healthcare.com/
-https://goldenerinns.com/
-https://bedfinders.com    
+https://house-of-healthcare-test.com/  
+https://goldenerinns.com/  
+https://bedfinders.com      
 https://101escapes.com    
 https://anchorinns.com   
 https://helpbookme.com   
