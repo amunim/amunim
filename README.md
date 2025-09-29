@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that can helps consumer on a daily basis
 - 📫 learn more about me at https://amunim.me/
 
-More active on bitbucket now.... so that's why you may not see as many commits
-
-Some production ready projects I've worked on:  
-https://house-of-healthcare-test.com/  
+Some projects I've worked on:  
+https://iclosed.io/
 https://goldenerinns.com/  
 https://bedfinders.com      
 https://101escapes.com    
